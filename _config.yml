@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -47,12 +47,25 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Angular
+    web_url: https://github.com/topics/angular
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png
 
-  - name: Web design
+  - name: C#
+    web_url: https://github.com/topics/csharp
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Firebase
+    web_url: https://github.com/topics/firebase
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png
+
+  - name: java
+    web_url: https://github.com/topics/java
+    image_url: https://w7.pngwing.com/pngs/917/862/png-transparent-java-programmer-computer-programming-logo-others-miscellaneous-text-logo.png
+
+  - name: Arch Linux
+    web_url: https://archlinux.org/
+    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1024px-Archlinux-icon-crystal-64.svg.png
+
+  - name: Security
+    web_url: https://github.com/topics/security
